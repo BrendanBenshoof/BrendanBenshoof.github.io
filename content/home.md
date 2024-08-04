@@ -1,7 +1,7 @@
 ---
 _template: index.html
 title:  "Brendan Benshoof"
-date:   2020-04-19
+date:   2024-08-04
 description: "Computer Scientist"
 _targets:
     - index.html

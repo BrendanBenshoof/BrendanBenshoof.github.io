@@ -9,7 +9,7 @@ _targets: ["gluten-free-sourdough/index.html"]
 ---
 
 <figure>
-    <a href="/assets/img/breadpics/glamor_bread.jpg"><img src="/assets/img/breadpics/glamor_bread.jpg"></a>
+    <a href="/assets/img/breadpics/glamor_bread.jpg"><img width="80%" src="/assets/img/breadpics/glamor_bread.jpg"></a>
     <figcaption>Glorious sourdough bread-analogue</figcaption>
 </figure>
 
@@ -72,8 +72,8 @@ If you put it in the fridge, feed it once a week (honestly it needs more like ev
 You can freeze it, but I'd thaw, feed, and give it 12+ hrs out in the warm every month.
 
 <figure class="half" >
-    <a href="/assets/img/breadpics/starter1.jpg"><img src="/assets/img/breadpics/starter1.jpg"></a>
-    <a href="/assets/img/breadpics/starter2.jpg"><img src="/assets/img/breadpics/starter2.jpg"></a>
+    <a href="/assets/img/breadpics/starter1.jpg"><img width="80%" src="/assets/img/breadpics/starter1.jpg"></a>
+    <a href="/assets/img/breadpics/starter2.jpg"><img width="80%" src="/assets/img/breadpics/starter2.jpg"></a>
     <figcaption>My hard-won starter</figcaption>
 </figure>
 
@@ -99,8 +99,8 @@ The trick to this step is that you are not making dough, you are making batter. 
 You want this to be as dry as you can get away with, removing moisture later during baking is a challenge but it still will probably be a runny batter. Combine the dry ingredients and starter in a mixing bowl. Add water and attempt to mix. Your goal is to add enough water that the dough is well mixed, and can trap air when you mix it on high. It will probably end up being a bit wetter than what you would expect for gluteny-bread. Do not "knead" the dough. It won’t help. “Whipping” the bread batter with an electric mixer on high will help. Do that.
 
 <figure class="half" >
-    <a href="/assets/img/breadpics/mixing1.jpg"><img src="/assets/img/breadpics/mixing1.jpg"></a>
-    <a href="/assets/img/breadpics/mixing2.jpg"><img src="/assets/img/breadpics/mixing2.jpg"></a>
+    <a href="/assets/img/breadpics/mixing1.jpg"><img width="80%" src="/assets/img/breadpics/mixing1.jpg"></a>
+    <a href="/assets/img/breadpics/mixing2.jpg"><img width="80%" src="/assets/img/breadpics/mixing2.jpg"></a>
     <figcaption>Get as much air into there as you can!</figcaption>
 </figure>
 
@@ -109,16 +109,16 @@ Spray your bread pan with oil (or otherwise grease it) and pour the batter in. S
 Fry extra bread batter and yeast starter like a pancake for a slightly-sour flat bread that goes great with jam.
 
 <figure class="half" >
-    <a href="/assets/img/breadpics/frybread1.jpg"><img src="/assets/img/breadpics/frybread1.jpg"></a>
-    <a href="/assets/img/breadpics/frybread2.jpg"><img src="/assets/img/breadpics/frybread2.jpg"></a>
+    <a href="/assets/img/breadpics/frybread1.jpg"><img width="80%" src="/assets/img/breadpics/frybread1.jpg"></a>
+    <a href="/assets/img/breadpics/frybread2.jpg"><img width="80%" src="/assets/img/breadpics/frybread2.jpg"></a>
     <figcaption>It can be a bit too sour, pair with a sweet jam</figcaption>
 </figure>
 
 Do not jostle, shake, poke or mix the risen dough. It is holding on to all those bubbles under duress and if you give it the chance it will fall like a souffle. I normally end up gently putting the bread-pan full of risen flour into the fridge and cooking it the next morning. 
 
 <figure class="half" >
-    <a href="/assets/img/breadpics/batter1.jpg"><img src="/assets/img/breadpics/batter1.jpg"></a>
-    <a href="/assets/img/breadpics/batter2.jpg"><img src="/assets/img/breadpics/batter2.jpg"></a>
+    <a href="/assets/img/breadpics/batter1.jpg"><img width="80%" src="/assets/img/breadpics/batter1.jpg"></a>
+    <a href="/assets/img/breadpics/batter2.jpg"><img width="80%" src="/assets/img/breadpics/batter2.jpg"></a>
     <figcaption>It normally takes all day to rise, so I bake it the next day. I should try rising overnight sometime. </figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Once you test the bread and have a dry stabby thing afterwards, it is done!
 Take out the bread and let it cool for at least 10 minutes.
 
 <figure>
-    <a href="/assets/img/breadpics/baked.jpg"><img src="/assets/img/breadpics/baked.jpg"></a>
+    <a href="/assets/img/breadpics/baked.jpg"><img width="80%" src="/assets/img/breadpics/baked.jpg"></a>
     <figcaption>I'm never patient enough to wait for it to cool.</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ Even though our “bread” has a very hard crust, it is very brittle. The bread
 You will need 2 knives. A bread knife for the top-crust, and a sharp chopping knife for the rest of the bread. With the bread knife, cut the first half-inch of each slice using a fast sawing motion. “Pre-cut” all the slices this way. Then take the chopping knife, and using each “pre-cut” cut the rest of the slice with a slow knife-drawing motion. The bottom crust will take some pressure and at least one more draw to break through. This way the fluffy warm bread-ish goodness inside is intact.
 
 <figure>
-    <a href="/assets/img/breadpics/cut.jpg"><img src="/assets/img/breadpics/cut.jpg"></a>
+    <a href="/assets/img/breadpics/cut.jpg"><img width="80%" src="/assets/img/breadpics/cut.jpg"></a>
     <figcaption>Phase 1 cutting complete.</figcaption>
 </figure>
 
