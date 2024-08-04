@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument('--from', dest='files', default="./content/",
                     help='Directory to pull markdown files from')
 
-parser.add_argument('--to', dest='output', default="./output",
+parser.add_argument('--to', dest='output', default="./docs",
                     help='Directory to pull markdown files from')
 
 
