@@ -1,7 +1,7 @@
 ---
 _template: article.html
 title:  "This Blog"
-date:   2023-01-22
+date:   2024-08-04
 _tags:
 - snippet 
 _targets: ["snippets/this_blog.html"]

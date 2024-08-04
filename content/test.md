@@ -5,6 +5,8 @@ title: This is actually just an arbitrary string
 # jinja template to apply to this file
 _template: "article.html"
 
+date:   2024-08-04
+
 # puts the rendered file 
 _targets: 
 - test.html
