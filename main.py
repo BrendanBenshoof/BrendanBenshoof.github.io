@@ -63,7 +63,7 @@ import mistune
 for r in resources:
 	print(":\""+r["title"]+"\":")
 	template = environment.get_template(r["_template"])
-	output = template.render(args=r, content=mistune.html(str(r)), tags=tags)
+	output = template.render(args=r, content=mistune.html(str(r)), tags=tags, title=r["title"])
 
 	for o in r["_targets"]:
 		print("--> "+o)
