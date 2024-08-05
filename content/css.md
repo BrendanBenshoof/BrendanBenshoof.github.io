@@ -8,6 +8,7 @@ _tags:
 _targets: ["static/blog.css"]
 text: "779e7f"
 background: "2b2b2b"
+dark: "202020"
 link: "cc7832"
 hover: "9876aa"
 quote: "a5c25c"

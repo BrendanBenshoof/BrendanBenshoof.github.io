@@ -9,21 +9,22 @@ _targets: ["snippets/this_blog.html"]
 
 I stole most of the design language for this blog from [Gregory Gundersen](https://gregorygundersen.com/) with consent implied by [How I Built this Blog](https://gregorygundersen.com/How%20I%20Built%20This%20Blog.html).
 
-I find jekyll and similar systems too opinonated on folder structure. 
-Static site generators all seem to demand you structure your website a certian way.
+I find jekyll and similar systems too opinionated on folder structure.
+Static site generators all seem to demand you structure your website a certain way.
 
 I want to ensure I never break links, so I am running a custom static site generation toolchain using:
 
 - [python](https://www.python.org/)
 - [frontmatter](https://pypi.org/project/python-frontmatter/)
-    - Watch out for "no tabs in YAML".
+	- Watch out for "no tabs in YAML".
 - [jinja2](https://jinja.palletsprojects.com/en/3.1.x/)
-    - I don't think I would use jinja in prod, but it is great for offline use.
+	- I don't think I would use jinja in prod, but it is great for offline use.
 - [mistune](https://mistune.lepture.com/en/latest/)
-    - I had some trouble managing the plugins, but the default parser does everything I want.
+	- I had some trouble managing the plugins, but the default parser does everything I want.
 
 I like putting basically all the configuration required into frontmatter.
 The script itself is actually simple enough to cite here:
+
 
 ```
 # scan the content of the blog

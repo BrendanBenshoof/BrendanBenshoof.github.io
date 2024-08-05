@@ -158,6 +158,19 @@ table td {
   padding: 0 1em;
   color: #{{args.quote}};
   border-left: 0.25em solid #{{args.quote_edge}};
+  background-color: #{{args.dark}};
+}
+.article pre {
+  margin: 50;
+  padding: 0 1em;
+  color: #{{args.quote}};
+  border-left: 0.25em solid #{{args.quote_edge}};
+  background-color: #{{args.dark}};
+  overflow: auto;
+  word-break: keep-all;
+}
+.article code {
+  word-break: keep-all;
 }
 .article h2 {
   font-size: 26px;

@@ -158,6 +158,19 @@ table td {
   padding: 0 1em;
   color: #a5c25c;
   border-left: 0.25em solid #a5c25c;
+  background-color: #202020;
+}
+.article pre {
+  margin: 50;
+  padding: 0 1em;
+  color: #a5c25c;
+  border-left: 0.25em solid #a5c25c;
+  background-color: #202020;
+  overflow: auto;
+  word-break: keep-all;
+}
+.article code {
+  word-break: keep-all;
 }
 .article h2 {
   font-size: 26px;
